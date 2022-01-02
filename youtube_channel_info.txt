@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 BNC | BNC |  |
-https://www.youtube.com/watch?v=MIqUplvSRWA
+https://www.youtube.com/watch?v=DTNkEm6jaqQ
